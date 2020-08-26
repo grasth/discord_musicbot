@@ -1,0 +1,2 @@
+node discord
+pause
